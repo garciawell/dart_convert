@@ -1,0 +1,20 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_sg_garcia",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/prompter_sg_garcia-0.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "converter",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2020-01-13T00:38:46.016872Z",
+  "generator": "pub",
+  "generatorVersion": "2.7.0"
+}
