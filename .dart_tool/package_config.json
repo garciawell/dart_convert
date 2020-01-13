@@ -2,8 +2,80 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "archive",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/archive-2.0.13",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/args-1.5.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/charcode-1.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "1.0"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/collection-1.14.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "convert",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/convert-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "1.17"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/crypto-2.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/image-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/meta-1.1.8",
+      "packageUri": "lib/",
+      "languageVersion": "1.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/path-1.6.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/petitparser-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
       "name": "prompter_sg_garcia",
       "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/prompter_sg_garcia-0.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/typed_data-1.1.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///C:/Users/well_/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/xml-3.7.0",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     },
@@ -14,7 +86,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-01-13T00:38:46.016872Z",
+  "generated": "2020-01-13T01:11:06.400530Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }
